@@ -4,7 +4,7 @@ Doom Game written in Python with Pygame
 This is a game done by following the Youtube tutorial found here: 
 https://www.youtube.com/watch?v=ECqUrT7IdqQ&t=433s&ab_channel=CoderSpace
 
-It is coded completely in Python using Pygame and tackles some amazing concepts such as 
+It is coded completely in Python using Pygame and tackles some tough game development concepts such as 
 - Pathfinding (using BFS) 
 - Creating AI for NPCs (Non player character) so that they're chasing the player and trying to kill the player
 - Raycasting and rendering a 2D world to look like a 3D world in a FPS (First Person Shooter)
